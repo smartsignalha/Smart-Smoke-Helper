@@ -33,7 +33,7 @@ wifi:
 
   # Enable fallback hotspot (captive portal) in case wifi connection fails
   ap:
-    ssid: "Makesmokesmart Fallback Hotspot"
+    ssid: " smartsmokehelper Hotspot"
     password: !secret ap_password 
 
 captive_portal:
